@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ironmike86
-- 👀 I’m interested in data science, machine learning, neural networks, and AI
-- 🌱 I’m currently learning python & data science concepts
-- 💞️ I’m looking to collaborate on projects for my portfolio
+- 👀 I’m interested in data science, machine learning, neural networks, Skynet and AI
+- 🌱 I’m currently studying data science and learning python
+- 💞️ I’m looking to contribute or collaborate on DS projects
 - 📫 riveratexas43@gmail.com
